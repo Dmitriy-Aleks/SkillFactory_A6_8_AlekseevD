@@ -1,0 +1,17 @@
+	
+
+h1 {
+	text-align: center;
+	margin: 20px;
+}
+
+.buttons {
+	display: flex;
+	flex-wrap: wrap;
+	}
+
+.btn {
+	min-width: 250px;
+	justify-content: space-between;
+	margin: 20px auto;
+}
